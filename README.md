@@ -132,6 +132,12 @@ This project can be used for:
 
 ---
 
+
+## This is just a small project with very little training data.
+
+---
+
+
 ## 👨‍💻 Author
 
 **Sahil Nabi**
